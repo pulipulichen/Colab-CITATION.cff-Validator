@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/912572771.svg)](https://doi.org/10.5281/zenodo.14602650)
+
 # Colab-CITATION.cff-Validator: 基於cffr套件的CITATION.cff驗證工具
 A CITATION.cff validator based on the cffr package.
 
