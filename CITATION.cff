@@ -8,10 +8,9 @@ authors:
     affiliation: Pulipuli Blog
 title: Colab-CITATION.cff-Validator
 type: software
-license: GPL3
+license: GPL-3.0
 license-url: https://github.com/pulipulichen/Colab-CITATION.cff-Validator/blob/main/LICENSE
-version: 0.9.0
-repository: GitHub
+version: 1.0.0
 repository-code: https://github.com/pulipulichen/Colab-CITATION.cff-Validator
 url: https://github.com/pulipulichen/Colab-CITATION.cff-Validator
 doi: 10.5281/zenodo.14602650
