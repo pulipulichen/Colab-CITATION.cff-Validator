@@ -5,7 +5,7 @@ authors:
     given-names: Yung-Ting
     orcid: https://orcid.org/0000-0003-3751-610X
     email: blog@pulipuli.info
-    affiliation: Pulipuli Blog
+    affiliation: Pulipuli's Blog
 title: Colab-CITATION.cff-Validator
 type: software
 license: GPL-3.0
